@@ -2,8 +2,8 @@
 
 ## I'm a beginner Modder in Minecraft
 
-### Latest Projects
-<!-- GITHIB:START -->
+<!--###Latest Projects
+     GITHIB:START -->
 <!-- GITHIB:END -->
 
 ### Languages and Tools
