@@ -1,4 +1,4 @@
-![Header](https://github.com/Winkarst-cpu/Winkarst-cpu/blob/main/assets/Winkarst-cpu.jpg)
+![Header](https://github.com/Winkarst-cpu/Winkarst-cpu/blob/main/Header.jpg)
 
 ## I'm a beginner Modder in Minecraft
 
