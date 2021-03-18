@@ -11,7 +11,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-090909?style=for-the-badge&logo=Eclipse&logoColor=)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![MCreator](https://img.shields.io/badge/-MCreator-090909)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Winkarst-cpu&theme=tokyonight&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
 
