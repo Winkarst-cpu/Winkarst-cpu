@@ -1,7 +1,5 @@
 ![Header](https://github.com/Winkarst-cpu/Winkarst-cpu/blob/main/Header.jpg)
 
-## I'm doing some coding for fun
-
 <!--###Latest Projects
      GITHIB:START -->
 <!-- GITHIB:END -->
